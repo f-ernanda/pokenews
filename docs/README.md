@@ -36,8 +36,10 @@ Com o objetivo de estudar usando a técnica de [active recall](https://shorturl.
 - Como funcionam as URLs da Vercel?
 - Qual a relação entre PoC e MVP?
 - Qual o papel das status pages de serviços web?
+- O que é o CommonJS?
+- Por que transpilar código é importante no desenvolvimento web?
 
-### Produtividade
+### Produtividade e automação
 
 - Como calcular o saldo de uma tarefa?
 - O que é paralisia por análise?
