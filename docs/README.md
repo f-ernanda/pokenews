@@ -7,8 +7,9 @@ Com o objetivo de estudar usando a técnica de [active recall](https://shorturl.
 ### Redes e protocolos
 
 - O que é um protocolo no contexto das redes de computadores?
-- Quais as diferenças entre os protocolos TCP (Transmission Control Protocol) e UDP (User Datagram Protocol)?
+- Quais as diferenças entre os protocolos TCP e UDP?
 - Como os protocolos HTTP, TCP e IP se relacionam?
+- Como é a estrutura do protocolo HTTP?
 
 ### DNS
 
@@ -20,6 +21,7 @@ Com o objetivo de estudar usando a técnica de [active recall](https://shorturl.
 - Qual a diferença entre o Registrar e o Registry, e onde se enquadra o NIC.br?
 - Qual o significado da sigla FQDN e sua importância no contexto da resolução de nomes de domínio?
 - Como é possível fazer consultas em servidores DNS pela linha de comando?
+- Como um servidor compartilhado encontra o endereço correto de um site usando DNS?
 
 ### Tooling
 
@@ -27,6 +29,7 @@ Com o objetivo de estudar usando a técnica de [active recall](https://shorturl.
 - Quais as diferenças entre sistemas de versionamento que utilizam delta encoding e o Git?
 - Qual é a função do arquivo package.json e qual é a diferença entre ele e o arquivo package-lock.json?
 - Qual é a origem da terminação `rc` em alguns nomes de arquivos e qual é o seu significado?
+- Quais são as diferenças entre uma GUI e uma TUI?
 
 ### Desenvolvimento web
 
@@ -38,6 +41,11 @@ Com o objetivo de estudar usando a técnica de [active recall](https://shorturl.
 - Qual o papel das status pages de serviços web?
 - O que é o CommonJS?
 - Por que transpilar código é importante no desenvolvimento web?
+- O que é uma API de maneira simplificada?
+
+### Qualidade
+
+- Quais são as diferenças entre a pirâmide de testes, o troféu de testes e o favo de mel de testes?
 
 ### Produtividade e automação
 
