@@ -39,7 +39,7 @@ O projeto visa abordar os seguintes aspectos:
 ## 🎯 Aprendizados
 
 Esse projeto se baseia no [TabNews][tabnews] mas com foco em Pokémon!
-O projeto será desenvolvido juntamente com o **[curso.dev][curso]**, onde as anotações referentes ao aprendizado ganho no curso serão mapeadas na [documentação técnica](./docs/README.md).
+Para tanto, o projeto será desenvolvido juntamente com o **[curso.dev][curso]**!
 
 ## 📃 Licença
 
@@ -52,8 +52,6 @@ Olá, sou a Fernanda! 😊
 Se quiser entrar em contato comigo, estou mais ativa no [LinkedIn][linkedin].
 
 ---
-
-#### [](./docs/)
 
 #### [English version](./README-en.md)
 

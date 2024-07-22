@@ -39,7 +39,7 @@ As the project progresses, this section will be updated with news.
 ## 🎯 Learnings
 
 This project is based on [TabNews][tabnews] but with a focus on Pokémon!
-The project will be developed along with the **[curso.dev][curso]**, where notes regarding the learning gained in the course will be mapped in the [technical documentation](./docs/README.md).
+To this end, the project will be developed along with the **[curso.dev][curso]**!
 
 ## 📃 License
 
@@ -57,6 +57,6 @@ If you'd like to get in touch with me, I'm more active on [LinkedIn][linkedin].
 
 <!-- links-->
 
-[linkedin]: https://www.linkedin.com/in/f-ernanda/
+[tabnews]: https://www.tabnews.com.br/
 [curso]: https://curso.dev/
 [linkedin]: https://www.linkedin.com/in/f-ernanda/
