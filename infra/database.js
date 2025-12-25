@@ -7,7 +7,7 @@ async function query(queryObject) {
     database: process.env.POSTGRES_DB,
     user: process.env.POSTGRES_USER,
     password: process.env.POSTGRES_PASSWORD,
-    ssl: { rejectUnauthorized: true, ca: process.env.POSTGRES_SSL_CERT },
+    ssl: process.env.NODE_ENV === "development" ? false : true,
   });
   console.log("Credenciais de conexão:", {
     database: process.env.POSTGRES_DB,
