@@ -29,7 +29,7 @@ Este repositório também funciona como um registro público desse processo.
 
 ## 🌟 Estado atual
 
-- Status do projeto: **em desenvolvimento** 🚧
+- Status do projeto: **em andamento** 🚧
 - Próximos passos: o foco atual é construir uma base sólida antes de expandir recursos.
 
 Detalhes mais técnicos e decisões específicas podem mudar ao longo do tempo.
