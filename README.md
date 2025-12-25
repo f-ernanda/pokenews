@@ -20,6 +20,7 @@ Este projeto está sendo desenvolvido em paralelo aos estudos do [curso.dev][cur
 Este projeto tem sido um espaço para aprender construindo algo real.
 
 Ao longo do desenvolvimento, estou explorando principalmente:
+
 - Como estruturar uma plataforma orientada a conteúdo
 - Decisões técnicas pensadas para evolução a longo prazo
 - Equilíbrio entre aprendizado, escopo e manutenção
@@ -29,8 +30,6 @@ Ao longo do desenvolvimento, estou explorando principalmente:
 
 - Status do projeto: **em andamento** 🚧
 - Próximos passos: o foco atual é construir uma base sólida antes de expandir recursos.
-
-Detalhes mais técnicos e decisões específicas podem mudar ao longo do tempo.
 
 ## 🌐 Versão online
 
