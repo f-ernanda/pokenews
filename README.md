@@ -1,62 +1,53 @@
-<h1 align="center">Pokénews</h1>
-<p align="center">Em breve um novo cantinho na internet para fãs de Pokémon!</p>
-<p align="center"><small> 🚧  ...Em construção...  🚧</small></p>
-<br>
+# Pokénews
 
-<p align="center">
-  <!-- commits per month -->
-  <img alt="Commits per month" src="https://img.shields.io/github/commit-activity/m/f-ernanda/pokenews?color=574ccb">
-  <!-- languages -->
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/f-ernanda/pokenews?color=CB504C">
-  <!-- top language-->
-  <img alt="Top language" src="https://img.shields.io/github/languages/top/f-ernanda/pokenews?color=cb744c">
-</p>
-<br>
-
-<p align="center">
-  <a href="#-sobre-o-projeto">Sobre o projeto</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-aprendizado">Aprendizados</a> •
-  <a href="#-licença">Licença</a> •
-  <a href="#-contato">Contato</a>
-</p>
+Um espaço colaborativo para compartilhar notícias, guias e ideias sobre o universo Pokémon.
 
 ## 💻 Sobre o projeto
 
-O Pokénews nasce da ideia de trazer notícias do universo Pokémon de forma colaborativa e gentil! É um espaço online onde fãs poderão trocar ideias, dicas, estratégias e análises em uma comunidade acolhedora e inclusiva.
+Pokénews nasceu da vontade de criar um cantinho na internet onde fãs de Pokémon possam compartilhar conhecimento de forma colaborativa, gentil e acessível.
 
-O projeto visa abordar os seguintes aspectos:
+A ideia é reunir:
 
-- **Notícias:** Atualizações com as últimas notícias e anúncios relacionados aos jogos de Pokémon, podendo se estender a outros produtos da franquia.
-- **Guias:** Tutoriais úteis para ajudar a comunidade a dominar diferentes aspectos dos jogos Pokémon, como estratégias de batalha, criação de equipes, localização de Pokémon raros, entre outros.
-- **Análises dos jogos:** Resenhas detalhadas dos jogos Pokémon, incluindo novos lançamentos, recomendações de jogos clássicos e comparações entre diferentes títulos da série.
-- **Conteúdo multimídia:** Sugestões de vídeos, podcasts e outros conteúdos multimídia relacionados a Pokémon, como gameplays, entrevistas com as equipes de desenvolvimento, discussões sobre teorias e curiosidades.
+- Notícias sobre jogos e lançamentos
+- Guias e dicas para jogadores
+- Análises e discussões sobre a franquia
+- Conteúdos criados pela própria comunidade
 
-## 🎨 Funcionalidades
+Este projeto está sendo desenvolvido em paralelo aos estudos do [curso.dev][curso], servindo tanto como aplicação prática dos conceitos quanto como um produto real baseado no [TabNews][tabnews].
 
-À medida que o projeto avança, esta seção será atualizada com novidades.
+## 🚀 O que este projeto explora
 
-## 🎯 Aprendizados
+Mais do que apenas funcionalidades, o Pokénews é um espaço para explorar:
 
-Esse projeto se baseia no [TabNews][tabnews] mas com foco em Pokémon!
-Para tanto, o projeto será desenvolvido juntamente com o **[curso.dev][curso]**!
+- Construção de uma plataforma orientada a conteúdo
+- Arquitetura de uma aplicação web completa
+- Decisões técnicas pensadas para evolução a longo prazo
+- Escrita, curadoria e colaboração em comunidade
+- Aprender construindo algo real
 
-## 📃 Licença
+Este repositório também funciona como um registro público desse processo.
 
-Esse projeto está distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais informações.
+## 🌟 Estado atual
 
-## 🌟 Contato
+- Status do projeto: **em desenvolvimento** 🚧
+- Próximos passos: o foco atual é construir uma base sólida antes de expandir recursos.
 
-Olá, sou a Fernanda! 😊
+Detalhes mais técnicos e decisões específicas podem mudar ao longo do tempo.
 
-Se quiser entrar em contato comigo, estou mais ativa no [LinkedIn][linkedin].
+## 🌐 Versão online
+
+A aplicação está disponível em:
+👉 https://pokenews.com.br/
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
 ---
 
-#### [English version](./README-en.md)
+🌱
 
 <!-- links-->
 
 [tabnews]: https://www.tabnews.com.br/
 [curso]: https://curso.dev/
-[linkedin]: https://www.linkedin.com/in/f-ernanda/
