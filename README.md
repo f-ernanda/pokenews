@@ -15,17 +15,15 @@ A ideia é reunir:
 
 Este projeto está sendo desenvolvido em paralelo aos estudos do [curso.dev][curso], servindo tanto como aplicação prática dos conceitos quanto como um produto real baseado no [TabNews][tabnews].
 
-## 🚀 O que este projeto explora
+## 🎯 O que estou aprendendo
 
-Mais do que apenas funcionalidades, o Pokénews é um espaço para explorar:
+Este projeto tem sido um espaço para aprender construindo algo real.
 
-- Construção de uma plataforma orientada a conteúdo
-- Arquitetura de uma aplicação web completa
+Ao longo do desenvolvimento, estou explorando principalmente:
+- Como estruturar uma plataforma orientada a conteúdo
 - Decisões técnicas pensadas para evolução a longo prazo
-- Escrita, curadoria e colaboração em comunidade
-- Aprender construindo algo real
-
-Este repositório também funciona como um registro público desse processo.
+- Equilíbrio entre aprendizado, escopo e manutenção
+- Escrita e documentação como parte do processo de desenvolvimento
 
 ## 🌟 Estado atual
 
